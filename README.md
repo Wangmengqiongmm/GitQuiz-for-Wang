@@ -2,12 +2,18 @@
 
 为王同学准备的 git 及 github 工具学习 repo
 
-#任务说明
+#有效时间
+2018/5/18-2018/5/25
 
-请注册 github 账号，fork此仓库（repo），
-安装并学习 Git 版本控制工具，
-学习拉取（pull） 新建分支（branch） 上传（push）等指令 
+#任务说明
+请注册 github 账号，fork此仓库（repo）
+
+安装并学习 Git 版本控制工具
+
+学习拉取（pull） 新建分支（branch） 上传（push）等指令
+
 完成相应代码修改后上传分支
+
 简单教程：https://www.jianshu.com/p/347e8b00790c
 
 #C++

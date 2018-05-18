@@ -1,2 +1,16 @@
 # GitQuiz-for-Wang
-为王同学准备的git及github工具学习repo
+
+为王同学准备的 git 及 github 工具学习 repo
+
+#C++
+修改 quiz.cpp 文件，使 main 函数输出 Hello Git
+
+#Python
+若此前未安装 python 语言环境，请安装 python3
+修改 quiz.py 文件
+
+```
+请利用@property给一个Screen对象加上width和height属性，以及一个只读属性resolution：
+使main函数可正确运行
+输出屏幕分辨率乘积 为 1310720
+```

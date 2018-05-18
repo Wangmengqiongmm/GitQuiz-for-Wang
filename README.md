@@ -2,10 +2,12 @@
 
 为王同学准备的 git 及 github 工具学习 repo
 
-#有效时间
+# 有效时间
+
 2018/5/18-2018/5/25
 
-#任务说明
+# 任务说明
+
 请注册 github 账号，fork此仓库（repo）
 
 安装并学习 Git 版本控制工具
@@ -16,10 +18,12 @@
 
 简单教程：https://www.jianshu.com/p/347e8b00790c
 
-#C++
+# C++
+
 修改 quiz.cpp 文件，使 main 函数输出 Hello Git
 
-#Python
+# Python
+
 若此前未安装 python 语言环境，请安装 python3
 修改 quiz.py 文件
 

@@ -4,7 +4,11 @@
 
 #任务说明
 
-请注册 github 账号，安装并学习 Git 版本控制工具，完成相应代码修改后上传分支简单教程：https://www.jianshu.com/p/347e8b00790c
+请注册 github 账号，fork此仓库（repo），
+安装并学习 Git 版本控制工具，
+学习拉取（pull） 新建分支（branch） 上传（push）等指令 
+完成相应代码修改后上传分支
+简单教程：https://www.jianshu.com/p/347e8b00790c
 
 #C++
 修改 quiz.cpp 文件，使 main 函数输出 Hello Git
